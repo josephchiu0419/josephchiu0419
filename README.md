@@ -1,8 +1,10 @@
-## Hello!! Welcome to GitHub Pages
+## Hello!! Welcome to Joseph Chiu Pages
 
-You can use the [editor on GitHub](https://github.com/josephchiu0419/josephchiu0419/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我是 Joseph，歡迎來到我的部落格~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我喜歡開箱各式 3C 、家電等電子產品（歡迎接洽^^），文章習慣寫的整齊有序，也就是分章節做介紹（ex.產品開箱、功能介紹、產品應用、總結與心得…等），讓讀者能挑選自己想看的部分，如有需求也會配合將文章貼到指定的論壇平台。
+
+如果有任何問題或建議，敬請來信，會在最短時間協助解答！
 
 ### Markdown
 
